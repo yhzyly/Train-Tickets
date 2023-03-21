@@ -13,7 +13,7 @@
 ### （1）在文件根目录打开Linux-shell
 [shift+鼠标右键]进行选择
 
-<img src="ScreenShot/Pasted image 20221214174555.png" alt="图1">
+<img src="ScreenShot/打开Linux-shell.jpg" alt="图1">
 <br>
 
 
