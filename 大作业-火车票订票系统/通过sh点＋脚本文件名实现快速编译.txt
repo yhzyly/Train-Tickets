@@ -1,0 +1,4 @@
+sh [target].sh
+--target为need脚本文件名
+
+这里是  sh build.sh
