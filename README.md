@@ -12,13 +12,19 @@
 
 ### （1）在文件根目录打开Linux-shell
 [shift+鼠标右键]进行选择
-![[ScreenShot/Pasted image 20221214174555.png]]
+
+<img src="ScreenShot/Pasted image 20221214174555.png" alt="图1">
+<br>
+
 
 ### （2）用配置的g++直接编译运行
 	g++ train.cpp
 	./a.out
 windows poweeshell会有乱码，需要在main函数添加 system("chcp 65001");
-![[ScreenShot/Pasted image 20221214175108.png]]
+
+<img src="ScreenShot/Pasted image 20221214175108.png" alt="图2">
+<br>
+
 这里也可以根据build.sh脚本进行快速编译
 
 ### （3）录入车次信息
